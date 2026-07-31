@@ -1,0 +1,6 @@
+{
+  "name": "Lucky Spin Multiplayer",
+  "description": "A multiplayer lucky spin web game featuring 1-25 number bets, spinning wheel animations, room jackpots, global jackpot engine, dual wallets (Bonus & Real Coins), AI customer service, and admin control.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
